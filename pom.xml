@@ -299,7 +299,7 @@
 		<jersey-common-version>2.25.1</jersey-common-version>
 		<jackson-version>2.9.8</jackson-version>
 		<jackson-threetenbp-version>2.6.4</jackson-threetenbp-version>
-        <junit-version>4.12</junit-version>
+        <junit-version>4.13.1</junit-version>
         <org-apache-httpcomponents>4.5.3</org-apache-httpcomponents>
 	</properties>
 </project>
